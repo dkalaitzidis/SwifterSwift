@@ -1,6 +1,6 @@
 //
 //  NSImageExtensionsTests.swift
-//  SwifterSwift-macOSTests
+//  SwifterSwift
 //
 //  Created by BUDDAx2 on 20.10.2017.
 //

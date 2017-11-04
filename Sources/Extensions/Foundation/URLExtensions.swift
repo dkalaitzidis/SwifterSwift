@@ -3,11 +3,11 @@
 //  SwifterSwift
 //
 //  Created by Omar Albeik on 03/02/2017.
-//  Copyright © 2017 omaralbeik. All rights reserved.
 //
 
 import Foundation
 
+// MARK: - Properties
 public extension URL {
 	
 	/// SwifterSwift: URL with appending query parameters.

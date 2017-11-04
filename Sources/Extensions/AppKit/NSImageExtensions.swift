@@ -1,6 +1,6 @@
 //
 //  NSImageExtensions.swift
-//  SwifterSwift-macOS
+//  SwifterSwift
 //
 //  Created by BUDDAx2 on 20.10.2017.
 //

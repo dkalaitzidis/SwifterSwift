@@ -3,43 +3,45 @@
 //  SwifterSwift
 //
 //  Created by Omar Albeik on 8/5/16.
-//  Copyright © 2016 Omar Albeik. All rights reserved.
 //
 
 #if os(iOS) || os(tvOS)
 import UIKit
 
 // MARK: - enums
-
-/// SwifterSwift: Shake directions of a view.
-///
-/// - horizontal: Shake left and right.
-/// - vertical: Shake up and down.
-public enum ShakeDirection {
-	case horizontal
-	case vertical
-}
-
-/// SwifterSwift: Angle units.
-///
-/// - degrees: degrees.
-/// - radians: radians.
-public enum AngleUnit {
-	case degrees
-	case radians
-}
-
-/// SwifterSwift: Shake animations types.
-///
-/// - linear: linear animation.
-/// - easeIn: easeIn animation
-/// - easeOut: easeOut animation.
-/// - easeInOut: easeInOut animation.
-public enum ShakeAnimationType {
-	case linear
-	case easeIn
-	case easeOut
-	case easeInOut
+public extension UIView {
+	
+	/// SwifterSwift: Shake directions of a view.
+	///
+	/// - horizontal: Shake left and right.
+	/// - vertical: Shake up and down.
+	public enum ShakeDirection {
+		case horizontal
+		case vertical
+	}
+	
+	/// SwifterSwift: Angle units.
+	///
+	/// - degrees: degrees.
+	/// - radians: radians.
+	public enum AngleUnit {
+		case degrees
+		case radians
+	}
+	
+	/// SwifterSwift: Shake animations types.
+	///
+	/// - linear: linear animation.
+	/// - easeIn: easeIn animation
+	/// - easeOut: easeOut animation.
+	/// - easeInOut: easeInOut animation.
+	public enum ShakeAnimationType {
+		case linear
+		case easeIn
+		case easeOut
+		case easeInOut
+	}
+	
 }
 
 // MARK: - Properties

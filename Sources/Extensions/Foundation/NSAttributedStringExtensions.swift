@@ -3,14 +3,9 @@
 //  SwifterSwift
 //
 //  Created by Omar Albeik on 26/11/2016.
-//  Copyright © 2016 Omar Albeik. All rights reserved.
 //
 
-#if os(macOS)
-	import Cocoa
-#else
-	import UIKit
-#endif
+import Foundation
 
 // MARK: - Properties
 public extension NSAttributedString {

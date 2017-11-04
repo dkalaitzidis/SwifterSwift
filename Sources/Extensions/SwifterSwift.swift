@@ -3,8 +3,8 @@
 //  SwifterSwift
 //
 //  Created by Omar Albeik on 8/8/16.
-//  Copyright © 2016 Omar Albeik. All rights reserved.
 //
+
 #if os(macOS)
 	import Cocoa
 #elseif os(watchOS)

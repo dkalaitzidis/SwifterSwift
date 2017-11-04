@@ -3,7 +3,6 @@
 //  SwifterSwift
 //
 //  Created by Ewelina on 26/01/2017.
-//  Copyright © 2017 omaralbeik. All rights reserved.
 //
 
 import XCTest

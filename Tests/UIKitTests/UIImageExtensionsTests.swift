@@ -3,7 +3,6 @@
 //  SwifterSwift
 //
 //  Created by Omar Albeik on 3/22/17.
-//  Copyright © 2017 omaralbeik. All rights reserved.
 //
 
 #if os(iOS) || os(tvOS)

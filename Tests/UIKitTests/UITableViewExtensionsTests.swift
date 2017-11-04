@@ -3,8 +3,8 @@
 //  SwifterSwift
 //
 //  Created by Omar Albeik on 2/24/17.
-//  Copyright © 2017 omaralbeik. All rights reserved.
 //
+
 #if os(iOS) || os(tvOS)
 
 import XCTest

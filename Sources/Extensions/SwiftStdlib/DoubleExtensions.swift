@@ -3,15 +3,7 @@
 //  SwifterSwift
 //
 //  Created by Omar Albeik on 8/6/16.
-//  Copyright © 2016 Omar Albeik. All rights reserved.
 //
-
-import Foundation
-#if os(macOS)
-	import Cocoa
-#else
-	import UIKit
-#endif
 
 // MARK: - Properties
 public extension Double {

@@ -3,12 +3,9 @@
 //  SwifterSwift
 //
 //  Created by Omar Albeik on 8/5/16.
-//  Copyright © 2016 Omar Albeik. All rights reserved.
 //
 
-import Foundation
-
-// MARK: - Methods (Integer)
+// MARK: - Methods (Numeric)
 public extension Array where Element: Numeric {
 	
 	/// SwifterSwift: Sum of all elements in array.

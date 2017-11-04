@@ -4,9 +4,6 @@
 //
 //  Created by Omar Albeik on 8/15/17.
 //
-//
-
-import Foundation
 
 // MARK: - Properties
 public extension SignedInteger {

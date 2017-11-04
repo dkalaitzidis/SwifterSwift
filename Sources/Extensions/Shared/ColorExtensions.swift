@@ -1,6 +1,6 @@
 //
 //  ColorExtensions.swift
-//  SwifterSwift-iOS
+//  SwifterSwift
 //
 //  Created by Omar Albeik on 9/27/17.
 //
