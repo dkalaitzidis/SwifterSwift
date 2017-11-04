@@ -5,6 +5,8 @@
 //  Created by Omar Albeik on 8/5/16.
 //
 
+import CoreGraphics
+
 // MARK: - Properties
 public extension String {
 	
